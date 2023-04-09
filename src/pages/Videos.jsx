@@ -12,14 +12,16 @@ export default function Videos() {
     error,
     isLoading,
     data: videos,
-  } = useQuery(["videos", keyword], async () => youtube.search(keyword));
+  } = useQuery(["videos", keyword], async () => youtube.search(keyword), {
+    staleTime: 1000 * 60 * 1,
+  });
 
   return (
     <div>
       {error && <p> error!!</p>}
       {isLoading && <p> loading!!</p>}
       {videos && (
-        <ul>
+        <ul className="p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
           {videos.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}

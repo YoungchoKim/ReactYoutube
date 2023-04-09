@@ -1,42 +1,42 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "ahCbwE3h-dZ46pGvA_d37NS3pAs",
+  "etag": "_mRmMeTQAabs91EjmBXoEtjBOiY",
   "pageInfo": {
     "totalResults": 1,
-    "resultsPerPage": 5
+    "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "vXzqU0oVDLdk4SQxVthbMCu9y6s",
-      "id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "etag": "3jLg5qcXHiCGQCBMoINvOlmHli8",
+      "id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "snippet": {
-        "title": "HBO Max",
-        "description": "HBO Max is the premium streaming platform that bundles together all of HBO with even more of your favorite movies and TV shows from Warner Bros. Discovery, New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and much more. Enjoy all of this, plus an exciting lineup of new original programming with Max Originals, all in one place.",
-        "customUrl": "@hbomax",
-        "publishedAt": "2019-07-03T14:47:23Z",
+        "title": "슈카월드",
+        "description": "경제, 금융을 기반으로 달리는 방송!\n정치는 아주. 전혀. 대단히. 모릅니다. \n누군가를 비판하거나 비난하지 않도록 노력하겠습니다.\n실수가 있더라도 너그럽고 재미있게 봐주세요.\n감사합니다.\n각종 문의 : syukaworld@sandbox.co.kr 으로 부탁드립니다.\n",
+        "customUrl": "@syukaworld",
+        "publishedAt": "2015-04-25T03:34:03Z",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s88-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUZP3rQlyTfM__IIvDnUrLWfLJ2TLhd4LNgEyyAmg=s88-c-k-c0x00ffffff-no-rj",
             "width": 88,
             "height": 88
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s240-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUZP3rQlyTfM__IIvDnUrLWfLJ2TLhd4LNgEyyAmg=s240-c-k-c0x00ffffff-no-rj",
             "width": 240,
             "height": 240
           },
           "high": {
-            "url": "https://yt3.ggpht.com/TcXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g947mESyRYqlWtwcoy9FyjiiLVLaTd=s800-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJUZP3rQlyTfM__IIvDnUrLWfLJ2TLhd4LNgEyyAmg=s800-c-k-c0x00ffffff-no-rj",
             "width": 800,
             "height": 800
           }
         },
         "localized": {
-          "title": "HBO Max",
-          "description": "HBO Max is the premium streaming platform that bundles together all of HBO with even more of your favorite movies and TV shows from Warner Bros. Discovery, New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and much more. Enjoy all of this, plus an exciting lineup of new original programming with Max Originals, all in one place."
+          "title": "슈카월드",
+          "description": "경제, 금융을 기반으로 달리는 방송!\n정치는 아주. 전혀. 대단히. 모릅니다. \n누군가를 비판하거나 비난하지 않도록 노력하겠습니다.\n실수가 있더라도 너그럽고 재미있게 봐주세요.\n감사합니다.\n각종 문의 : syukaworld@sandbox.co.kr 으로 부탁드립니다.\n"
         },
-        "country": "US"
+        "country": "KR"
       }
     }
   ]
